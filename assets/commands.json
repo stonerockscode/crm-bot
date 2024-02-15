@@ -1,0 +1,44 @@
+{
+	"help": {
+		"image": "https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png",
+		"title": "Help",
+		"showTitle": true,
+		"description": ["Please click on the group of the command that you need help with below."],
+		"buttons": ["admin", "lead", "vc", "metrics", "sme"]
+	},
+	"admin": {
+		"image": "https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png",
+		"title": "Admin",
+		"showTitle": true,
+		"description": ["Please click on the group of the command that you need help with below."],
+		"buttons": ["help", "lead", "vc", "metrics", "sme"]
+	},
+	"lead": {
+		"image": "https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png",
+		"title": "Lead",
+		"showTitle": true,
+		"description": ["Please click on the group of the command that you need help with below."],
+		"buttons": ["help", "admin", "vc", "metrics", "sme"]
+	},
+	"metrics": {
+		"image": "https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png",
+		"title": "Metrics",
+		"showTitle": true,
+		"description": ["Please click on the group of the command that you need help with below."],
+		"buttons": ["help", "admin", "vc", "lead", "sme"]
+	},
+	"sme": {
+		"image": "https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png",
+		"title": "SME",
+		"showTitle": true,
+		"description": ["Please click on the group of the command that you need help with below."],
+		"buttons": ["help", "admin", "vc", "metrics", "lead"]
+	},
+	"vc": {
+		"image": "https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png",
+		"title": "VC",
+		"showTitle": true,
+		"description": ["Please click on the group of the command that you need help with below."],
+		"buttons": ["help", "admin", "sme", "metrics", "lead"]
+	}
+}
